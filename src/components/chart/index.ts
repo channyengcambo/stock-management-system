@@ -1,7 +1,5 @@
-export * from './chart';
+// ----------------------------------------------------------------------
 
-export * from './use-chart';
+export { default } from './chart';
 
-export * from './components';
-
-export type * from './types';
+export { default as useChart } from './use-chart';

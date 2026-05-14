@@ -12,8 +12,8 @@ import Drawer, { drawerClasses } from '@mui/material/Drawer';
 import { usePathname } from 'src/routes/hooks';
 import { RouterLink } from 'src/routes/components';
 
-import { Logo } from 'src/components/logo';
-import { Scrollbar } from 'src/components/scrollbar';
+import { Logo } from 'src/component/logo';
+import { Scrollbar } from 'src/component/scrollbar';
 
 import type { NavItem } from '../nav-config-dashboard';
 

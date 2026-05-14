@@ -8,7 +8,7 @@ import Alert from '@mui/material/Alert';
 
 import { RouterLink } from 'src/routes/components';
 
-import { Logo } from 'src/components/logo';
+import { Logo } from 'src/component/logo';
 
 import { AuthContent } from './content';
 import { MainSection } from '../core/main-section';

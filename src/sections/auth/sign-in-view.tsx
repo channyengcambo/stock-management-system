@@ -11,7 +11,7 @@ import InputAdornment from '@mui/material/InputAdornment';
 
 import { useRouter } from 'src/routes/hooks';
 
-import { Iconify } from 'src/components/iconify';
+import { Iconify } from 'src/component/iconify';
 
 // ----------------------------------------------------------------------
 

@@ -1,4 +1,4 @@
-import { Iconify } from 'src/components/iconify';
+import { Iconify } from 'src/component/iconify';
 
 import type { AccountPopoverProps } from './components/account-popover';
 

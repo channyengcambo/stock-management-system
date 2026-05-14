@@ -1,6 +1,6 @@
 import type { CardProps } from '@mui/material/Card';
 import type { PaletteColorKey } from 'src/theme/core';
-import type { ChartOptions } from 'src/components/chart';
+import type { ChartOptions } from 'src/component/chart';
 
 import { varAlpha } from 'minimal-shared/utils';
 
@@ -10,9 +10,9 @@ import { useTheme } from '@mui/material/styles';
 
 import { fNumber, fPercent, fShortenNumber } from 'src/utils/format-number';
 
-import { Iconify } from 'src/components/iconify';
-import { SvgColor } from 'src/components/svg-color';
-import { Chart, useChart } from 'src/components/chart';
+import { Iconify } from 'src/component/iconify';
+import { SvgColor } from 'src/component/svg-color';
+import { Chart, useChart } from 'src/component/chart';
 
 // ----------------------------------------------------------------------
 
