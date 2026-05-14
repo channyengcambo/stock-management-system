@@ -1,6 +1,6 @@
 import type { Theme, CSSObject } from '@mui/material/styles';
 
-import { useRouteError, isRouteErrorResponse } from 'react-router';
+import { useRouteError, isRouteErrorResponse } from 'react-router-dom';
 
 import GlobalStyles from '@mui/material/GlobalStyles';
 

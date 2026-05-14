@@ -1,8 +1,9 @@
-import type { LinkProps } from 'react-router';
-
-import { Link } from 'react-router';
 
 // ----------------------------------------------------------------------
+
+import type { LinkProps } from "react-router-dom";
+
+import { Link } from "react-router-dom";
 
 interface RouterLinkProps extends Omit<LinkProps, 'to'> {
   href: string;
